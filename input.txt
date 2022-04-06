@@ -1,4 +1,4 @@
-Job 0404225646 was calculated using the following input parameters:
+Job 0404225648 was calculated using the following input parameters:
 ---------------------------------------------
 Initial Mass: 10 (solar mass)
 
@@ -6,7 +6,7 @@ Nuclear Reaction Network: basic.net
 
 Sampled Nuclear Reaction: none
 
-Initial Metallicity: 0.0003
+Initial Metallicity: 0.03
 
 Mixing Length Alpha: 2.0
 
